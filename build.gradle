@@ -15,7 +15,7 @@ buildscript {
 allprojects {
     apply plugin: "eclipse"
 
-    version = '1.0'
+    version = '1.0.0-SNAPSHOT'
     ext {
         appName = "Web Interface Pie"
         gdxVersion = '1.12.0'
